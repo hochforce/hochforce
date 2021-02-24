@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hugo Hoch 
 
-<!--
-**hochforce/hochforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 🙂
 
-Here are some ideas to get you started:
+Gosto muito de conhecer tecnologias novas.
+<br/>Sou estudante de Sistemas de Informação 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente trabalho com infraestrutura de redes no Sicoob.
+<br/>Estou estudando desenvolvimento web utilizando Node.js, React e SQL.
+<br/>Por enquanto já tenho conhecimentos de HTML, CSS e Javascript.
+<br/>Posso ajudar a encontrar problemas e solucioná-los, é só chamar!
+<br/>Você pode me encontrar no discord Ocapi#6277
+<br/>E-mail: hochforce@gmail.com
+<br/>LinkedIn: https://www.linkedin.com/in/hugo-hoch/
+<br/>Telegram: t.me/HugoHoch_bot
