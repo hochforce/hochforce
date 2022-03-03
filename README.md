@@ -3,11 +3,11 @@
 ## Olá pessoal 🙂
 
 Gosto muito de conhecer tecnologias novas.
-<br/>Sou estudante de Sistemas de Informação 💻
+<br/>Sou bacharel em Sistemas de Informação 💻 pelo IFNMG - campus Arinos
 
-Atualmente trabalho com infraestrutura de redes no Sicoob.
-<br/>Estou estudando desenvolvimento web utilizando Node.js, React e SQL.
-<br/>Por enquanto já tenho conhecimentos de HTML, CSS e Javascript.
+Atualmente trabalhando em projetos pessoais e a procura de um emprego.
+<br/>Tenho 2 anos de experiência com desenvolvimento web utilizando:
+<br/>HTML, CSS, Javascript, Typescript, Node.js, React, Styled Components, Sqlite.
 <br/>Posso ajudar a encontrar problemas e solucioná-los, é só chamar!
 <br/>Você pode me encontrar no discord Ocapi#6277
 <br/>E-mail: hochforce@gmail.com
