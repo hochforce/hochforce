@@ -6,7 +6,7 @@ Gosto muito de conhecer tecnologias novas.
 <br/>Sou bacharel em Sistemas de Informação 💻 pelo IFNMG - campus Arinos
 
 Atualmente trabalhando em projetos pessoais e a procura de um emprego.
-<br/>Tenho 2 anos de experiência com desenvolvimento web utilizando:
+<br/>Tenho 4 anos de experiência com desenvolvimento web utilizando:
 <br/>HTML, CSS, Javascript, Typescript, Node.js, React, Styled Components, Sqlite.
 <br/>Estou estudando React Native. Pretendo me especializar em dev mobile.
 <br/>Posso ajudar a encontrar problemas e solucioná-los, é só chamar!
