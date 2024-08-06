@@ -9,6 +9,7 @@
 Estou sempre pronto para enfrentar desafios e encontrar soluções criativas para problemas de desenvolvimento. Se precisar de ajuda ou quiser discutir um projeto, não hesite em me chamar!
 
 **Contato:**
+- **Site Portfólio:** [Hugo Hoch](https://www.hugohoch.com)
 - **Discord:** Hugo Hoch#6277
 - **E-mail:** hochforce@gmail.com
 - **LinkedIn:** [Hugo Hoch](https://www.linkedin.com/in/hugo-hoch/)
